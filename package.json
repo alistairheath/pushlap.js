@@ -1,0 +1,27 @@
+{
+  "name": "pushlapgrowth",
+  "version": "1.0.0",
+  "description": "An API wrapper for Push Lap Growth.",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/types/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "rollup -c && node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.2",
+    "@rollup/plugin-json": "^6.1.0",
+    "@rollup/plugin-node-resolve": "^16.0.0",
+    "@rollup/plugin-typescript": "^12.1.2",
+    "rollup": "^4.29.1",
+    "tslib": "^2.8.1",
+    "typescript": "^5.7.2"
+  }
+}
