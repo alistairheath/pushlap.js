@@ -1,4 +1,4 @@
-#[<img src="https://www.pushlapgrowth.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon.8143fe5a.png&w=64&q=100" width="32" height="32" />](http://pushlapgrowth.com) PushLap.js
+# [<img src="https://www.pushlapgrowth.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ficon.8143fe5a.png&w=64&q=100" width="32" height="32" />](http://pushlapgrowth.com) PushLap.js
 
 PushLap.js is a TypeScript API wrapper for the [PushLapGrowth API](https://developers.pushlapgrowth.com/api-reference/introduction). This library simplifies integration with Push Lap Growth, enabling you to manage affiliates, referrals, and sales in your growth programs with ease.
 
